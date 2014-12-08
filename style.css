@@ -1,0 +1,82 @@
+body{
+background-color:#F8F8FF;
+color:#444;
+font-size: 100%;
+
+}
+h1{
+color:#CD5C5C;
+font-size: 400%;
+margin-left: 30%;
+margin-right: 30%;
+}
+
+h3{}
+
+p{}
+
+a{}
+
+
+table, th, td {
+border: 1px dotted #CD5C5C;
+width: 50%;    
+height: 50px;
+padding: 10px;
+font-size: 120%;
+}
+
+table{
+position: relative;
+left: 20%;
+top: 5%;
+}
+
+.menu1{
+display: none;
+}
+
+.form{
+width: 600px; 
+height: 350px;
+position: absolute;
+right: 20%;
+top: 25px;
+color:#444;
+margin: 10%;
+font-size: 150%;
+border: 2px dotted #cd5c5c;   
+padding: 10px 40px;  
+line-height: 1.5;
+}
+
+.menu,.panel{
+width: 200px; 
+color:#444;
+background-color:#CD5C5C;
+font-size: 150%;
+top: 45px;
+}
+
+.menu_chosen{
+background-color:#df9797;
+}
+
+.panel{
+display:none;
+}
+#submit{
+color:#CD5C5C;
+background-color:#F8F8FF;
+font-size: 100%;
+border: 2px dotted #CD5C5C;
+}
+#accordion{
+color:#444;
+width: 150px;
+position: absolute;
+right: 100px;
+border: 2px dotted #cd5c5c;   
+padding: 10px 40px;
+font-size: 150%;
+}
